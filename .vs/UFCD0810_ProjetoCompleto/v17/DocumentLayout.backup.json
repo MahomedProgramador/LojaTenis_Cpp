@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arshad\\OneDrive\\Documentos\\Programming\\NST-PROG20\\0810_Programacao_C_C\u002B\u002B_Avancada\\Versoes_Projectos\\UFCD0810_ProjetoCompleto_Mahomed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBFC425-D7BA-4C3E-AD1A-FD8F5BCC2D89}|UFCD0810_ProjetoCompleto\\UFCD0810_ProjetoCompleto.vcxproj|C:\\Users\\Arshad\\OneDrive\\Documentos\\Programming\\NST-PROG20\\0810_Programacao_C_C\u002B\u002B_Avancada\\Versoes_Projectos\\UFCD0810_ProjetoCompleto_Mahomed\\UFCD0810_ProjetoCompleto\\080928_01LojaTenis_04Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BBFC425-D7BA-4C3E-AD1A-FD8F5BCC2D89}|UFCD0810_ProjetoCompleto\\UFCD0810_ProjetoCompleto.vcxproj|solutionrelative:UFCD0810_ProjetoCompleto\\080928_01LojaTenis_04Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBFC425-D7BA-4C3E-AD1A-FD8F5BCC2D89}|UFCD0810_ProjetoCompleto\\UFCD0810_ProjetoCompleto.vcxproj|C:\\Users\\Arshad\\OneDrive\\Documentos\\Programming\\NST-PROG20\\0810_Programacao_C_C\u002B\u002B_Avancada\\Versoes_Projectos\\UFCD0810_ProjetoCompleto_Mahomed\\UFCD0810_ProjetoCompleto\\080928_01Tenis_02ClasseTenis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BBFC425-D7BA-4C3E-AD1A-FD8F5BCC2D89}|UFCD0810_ProjetoCompleto\\UFCD0810_ProjetoCompleto.vcxproj|solutionrelative:UFCD0810_ProjetoCompleto\\080928_01Tenis_02ClasseTenis.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBFC425-D7BA-4C3E-AD1A-FD8F5BCC2D89}|UFCD0810_ProjetoCompleto\\UFCD0810_ProjetoCompleto.vcxproj|C:\\Users\\Arshad\\OneDrive\\Documentos\\Programming\\NST-PROG20\\0810_Programacao_C_C\u002B\u002B_Avancada\\Versoes_Projectos\\UFCD0810_ProjetoCompleto_Mahomed\\UFCD0810_ProjetoCompleto\\Fornecedor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BBFC425-D7BA-4C3E-AD1A-FD8F5BCC2D89}|UFCD0810_ProjetoCompleto\\UFCD0810_ProjetoCompleto.vcxproj|solutionrelative:UFCD0810_ProjetoCompleto\\Fornecedor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBFC425-D7BA-4C3E-AD1A-FD8F5BCC2D89}|UFCD0810_ProjetoCompleto\\UFCD0810_ProjetoCompleto.vcxproj|C:\\Users\\Arshad\\OneDrive\\Documentos\\Programming\\NST-PROG20\\0810_Programacao_C_C\u002B\u002B_Avancada\\Versoes_Projectos\\UFCD0810_ProjetoCompleto_Mahomed\\UFCD0810_ProjetoCompleto\\Encomenda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BBFC425-D7BA-4C3E-AD1A-FD8F5BCC2D89}|UFCD0810_ProjetoCompleto\\UFCD0810_ProjetoCompleto.vcxproj|solutionrelative:UFCD0810_ProjetoCompleto\\Encomenda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fornecedor.cpp",
+              "DocumentMoniker": "C:\\Users\\Arshad\\OneDrive\\Documentos\\Programming\\NST-PROG20\\0810_Programacao_C_C\u002B\u002B_Avancada\\Versoes_Projectos\\UFCD0810_ProjetoCompleto_Mahomed\\UFCD0810_ProjetoCompleto\\Fornecedor.cpp",
+              "RelativeDocumentMoniker": "UFCD0810_ProjetoCompleto\\Fornecedor.cpp",
+              "ToolTip": "C:\\Users\\Arshad\\OneDrive\\Documentos\\Programming\\NST-PROG20\\0810_Programacao_C_C\u002B\u002B_Avancada\\Versoes_Projectos\\UFCD0810_ProjetoCompleto_Mahomed\\UFCD0810_ProjetoCompleto\\Fornecedor.cpp",
+              "RelativeToolTip": "UFCD0810_ProjetoCompleto\\Fornecedor.cpp",
+              "ViewState": "AgIAAIcBAAAAAAAAAAAAAJUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T09:11:41.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "080928_01Tenis_02ClasseTenis.cpp",
+              "DocumentMoniker": "C:\\Users\\Arshad\\OneDrive\\Documentos\\Programming\\NST-PROG20\\0810_Programacao_C_C\u002B\u002B_Avancada\\Versoes_Projectos\\UFCD0810_ProjetoCompleto_Mahomed\\UFCD0810_ProjetoCompleto\\080928_01Tenis_02ClasseTenis.cpp",
+              "RelativeDocumentMoniker": "UFCD0810_ProjetoCompleto\\080928_01Tenis_02ClasseTenis.cpp",
+              "ToolTip": "C:\\Users\\Arshad\\OneDrive\\Documentos\\Programming\\NST-PROG20\\0810_Programacao_C_C\u002B\u002B_Avancada\\Versoes_Projectos\\UFCD0810_ProjetoCompleto_Mahomed\\UFCD0810_ProjetoCompleto\\080928_01Tenis_02ClasseTenis.cpp",
+              "RelativeToolTip": "UFCD0810_ProjetoCompleto\\080928_01Tenis_02ClasseTenis.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8CAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-18T09:32:39.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Encomenda.cpp",
+              "DocumentMoniker": "C:\\Users\\Arshad\\OneDrive\\Documentos\\Programming\\NST-PROG20\\0810_Programacao_C_C\u002B\u002B_Avancada\\Versoes_Projectos\\UFCD0810_ProjetoCompleto_Mahomed\\UFCD0810_ProjetoCompleto\\Encomenda.cpp",
+              "RelativeDocumentMoniker": "UFCD0810_ProjetoCompleto\\Encomenda.cpp",
+              "ToolTip": "C:\\Users\\Arshad\\OneDrive\\Documentos\\Programming\\NST-PROG20\\0810_Programacao_C_C\u002B\u002B_Avancada\\Versoes_Projectos\\UFCD0810_ProjetoCompleto_Mahomed\\UFCD0810_ProjetoCompleto\\Encomenda.cpp",
+              "RelativeToolTip": "UFCD0810_ProjetoCompleto\\Encomenda.cpp",
+              "ViewState": "AgIAAHEBAAAAAAAAAAAAAHsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-17T22:53:39.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "080928_01LojaTenis_04Main.cpp",
+              "DocumentMoniker": "C:\\Users\\Arshad\\OneDrive\\Documentos\\Programming\\NST-PROG20\\0810_Programacao_C_C\u002B\u002B_Avancada\\Versoes_Projectos\\UFCD0810_ProjetoCompleto_Mahomed\\UFCD0810_ProjetoCompleto\\080928_01LojaTenis_04Main.cpp",
+              "RelativeDocumentMoniker": "UFCD0810_ProjetoCompleto\\080928_01LojaTenis_04Main.cpp",
+              "ToolTip": "C:\\Users\\Arshad\\OneDrive\\Documentos\\Programming\\NST-PROG20\\0810_Programacao_C_C\u002B\u002B_Avancada\\Versoes_Projectos\\UFCD0810_ProjetoCompleto_Mahomed\\UFCD0810_ProjetoCompleto\\080928_01LojaTenis_04Main.cpp",
+              "RelativeToolTip": "UFCD0810_ProjetoCompleto\\080928_01LojaTenis_04Main.cpp",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAUwAYBAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-06T13:54:07.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 35,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

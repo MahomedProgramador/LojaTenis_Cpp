@@ -1,0 +1,86 @@
+﻿  080928_01Tenis_01FComuns.cpp
+  080928_01Tenis_02ClasseTenis.cpp
+  080928_01LojaTenis_04Main.cpp
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01Tenis_02ClasseTenis.cpp(333,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01Tenis_02ClasseTenis.cpp(346,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01Tenis_02ClasseTenis.cpp(468,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01Tenis_02ClasseTenis.cpp(474,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01Tenis_02ClasseTenis.cpp(513,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01Tenis_02ClasseTenis.cpp(523,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01Tenis_02ClasseTenis.cpp(333,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '080928_01LojaTenis_04Main.cpp')
+  
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01Tenis_02ClasseTenis.cpp(346,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '080928_01LojaTenis_04Main.cpp')
+  
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01Tenis_02ClasseTenis.cpp(468,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '080928_01LojaTenis_04Main.cpp')
+  
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01Tenis_02ClasseTenis.cpp(474,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '080928_01LojaTenis_04Main.cpp')
+  
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01Tenis_02ClasseTenis.cpp(513,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '080928_01LojaTenis_04Main.cpp')
+  
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01Tenis_02ClasseTenis.cpp(523,22): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '080928_01LojaTenis_04Main.cpp')
+  
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Fornecedor.cpp(203,44): warning C4244: 'argument': conversion from 'float' to 'const _Elem', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Fornecedor.cpp(203,44): warning C4244:         with
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Fornecedor.cpp(203,44): warning C4244:         [
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Fornecedor.cpp(203,44): warning C4244:             _Elem=char
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Fornecedor.cpp(203,44): warning C4244:         ]
+  (compiling source file '080928_01LojaTenis_04Main.cpp')
+  
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Encomenda.cpp(255,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '080928_01LojaTenis_04Main.cpp')
+  
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Encomenda.cpp(361,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file '080928_01LojaTenis_04Main.cpp')
+  
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Encomenda.cpp(410,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '080928_01LojaTenis_04Main.cpp')
+  
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Encomenda.cpp(416,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file '080928_01LojaTenis_04Main.cpp')
+  
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(183,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(186,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(184,16): warning C4101: 'e': unreferenced local variable
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(222,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(229,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(239,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(272,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(319,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(529,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(536,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(552,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(590,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(623,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(659,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(692,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(734,30): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(790,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(873,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(1007,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(1014,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(1025,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(1057,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(1085,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01LojaTenis_04Main.cpp(1121,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Encomenda.cpp
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Encomenda.cpp(255,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Encomenda.cpp(361,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Encomenda.cpp(410,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Encomenda.cpp(416,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Fornecedor.cpp
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Fornecedor.cpp(203,44): warning C4244: 'argument': conversion from 'float' to 'const _Elem', possible loss of data
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Fornecedor.cpp(203,44): warning C4244:         with
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Fornecedor.cpp(203,44): warning C4244:         [
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Fornecedor.cpp(203,44): warning C4244:             _Elem=char
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Fornecedor.cpp(203,44): warning C4244:         ]
+  Generating Code...
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Encomenda.cpp(116,1): warning C4172: returning address of local variable or temporary : mensagem
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\080928_01Tenis_02ClasseTenis.cpp(130,1): warning C4172: returning address of local variable or temporary : mensagem
+C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\UFCD0810_ProjetoCompleto\Fornecedor.cpp(115,1): warning C4172: returning address of local variable or temporary : mensagem
+  UFCD0810_ProjetoCompleto.vcxproj -> C:\Users\Arshad\OneDrive\Documentos\Programming\NST-PROG20\0810_Programacao_C_C++_Avancada\Versoes_Projectos\UFCD0810_ProjetoCompleto_Mahomed\x64\Debug\UFCD0810_ProjetoCompleto.exe
